@@ -23,8 +23,8 @@
 [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)](https://expressjs.com/ko/)
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]([https://slack.com/intl/ko-kr/](https://www.notion.so/))
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)]([https://slack.com/intl/ko-kr/](https://www.figma.com/))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 
 
 <br/>
