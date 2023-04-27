@@ -1,16 +1,8 @@
-![Counter](https://visitor-badge.glitch.me/badge?page_id=blueline1318.visitor-badge)
-
-<!--Status-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueline1984&show_icons=true&theme=vue)
-
-## 🍀 Frontend Developer
 안녕하세요, 프론트엔드 개발자 백인빈 입니다.
-<br/><br/>
-**함께 성장**하는 것, <br/>**깊이있게 탐구**하는 것, <br/>**꾸준함**을 추구합니다.
 
 <br/>
 
-## 🧤 Skills
+### Skills
 <!--Skill Badge-->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://dev.w3.org/html5/spec-LC/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -29,11 +21,11 @@
 
 <br/>
 
-## 🧩 Contact
+### Contact
   [![Gmail](https://img.shields.io/badge/blueline1318@gmail.com-EA4335?flat-square,&logo=Gmail&logoColor=white)](mailto:blueline1318@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square,&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/inbeen-baik-34045a248/)
 
 <br/>
 
-## 🍏 Blog
+## Blog
 [![Gmail](https://img.shields.io/badge/https://whitebeen.tistory.com-000000?flat-square,&logo=Tistory&logoColor=white)](https://whitebeen.tistory.com/)
